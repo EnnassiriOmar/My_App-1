@@ -16,6 +16,10 @@ public class SecondActivity extends AppCompatActivity {
     int myImage;
 
 
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
