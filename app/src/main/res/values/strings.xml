@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+    <string-array name="phones">
+        <item>iphone 13 pro Max</item>
+        <item>iphone 12</item>
+        <item>iphone X</item>
+        <item>nova 9</item>
+        <item>redmi note 10</item>
+        <item>redmi 11</item>
+        <item>galaxys s22</item>
+        <item>Samsung A13</item>
+        <item>Sony</item>
+        <item>huawei</item>
+        <item>Apple watch series 7</item>
+        <item>Tablette</item>
+        <item>Pc</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+
+    </string-array>
+
+
+</resources>
